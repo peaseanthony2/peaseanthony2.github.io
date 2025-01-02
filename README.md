@@ -1,2 +1,1 @@
-# peaseanthony2.github.io
-Invitory system with marketplace, recycling, manufacturing, distribution, wholesale, brick and motor retail, online retail, same day delivery retail
+Business owner, Employee and customer email, phone number, products hosted on websites owner server web browser using cookies and web storage. Product Analistics, Sales, Incoming Inventory Shipments, Invitory Warehouse Product Locations, Invitory locations,hosted on business web browser using cookies and web storage
